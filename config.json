@@ -15,11 +15,6 @@
       }
     ],
     "social": [
-      {
-        "href": "https://space.bilibili.com/123456",
-        "name": "B站",
-        "label": "bilibili"
-      }
      {
         "href": "https://x.com/flowershowapp",
         "name": "Follow me on X",
