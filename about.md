@@ -1,3 +1,3 @@
 # About
 
-尚宸鸣，B站6级号的合法使用者
+This is an example about page.

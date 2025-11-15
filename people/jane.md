@@ -1,7 +1,7 @@
 ---
-title: 尚宸鸣
-description: B站6级号的使用者
-avatar: 
+title: Jane Doe
+description: Technical writer and open-source enthusiast
+avatar: https://i.pravatar.cc/300?img=38
 ---
 
 Jane is a passionate technical writer with over 5 years of experience in documenting complex software systems.
