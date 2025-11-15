@@ -23,11 +23,6 @@
       {
         "href": "https://x.com/flowershowapp",
         "name": "Follow me on X",
-        "label": "twitter"
-      }
-      {
-        "href": "https://youtube.com/yourchannel",
-        "name": "YouTube",
         "label": "youTube"
       }
     ]
