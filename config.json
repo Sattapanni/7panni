@@ -16,14 +16,9 @@
     ],
     "social": [
       {
-        "href": "https://github.com/flowershow/demo",
-        "name": "GitHub Profile",
-        "label": "facebook"
-      },
-      {
-        "href": "mailto:7panni@proton.me",
-        "name": "Email",
-        "label": "email"
+        "href": "https://space.bilibili.com/123456",
+        "name": "B站",
+        "label": "bilibili"
       }
      {
         "href": "https://x.com/flowershowapp",
