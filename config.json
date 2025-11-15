@@ -1,22 +1,22 @@
 {
-  "title": "Flowershow Demo",
-  "description": "Flowershow demo site showcasing its features",
-  "image": "/assets/hiroshige.jpg",
+  "title": "七叶电波",
+  "description": "使人成为人",
+  "image": "/assets/skipper.jpg",
   "nav": {
-    "title": "Flowershow Demo",
+    "title": "七叶电波",
     "links": [
       {
         "href": "/about",
-        "name": "About"
+        "name": "作者"
       },
       {
         "href": "/#-markdown-syntax",
-        "name": "Syntax"
+        "name": "随便起个名字测试一下"
       }
     ],
     "social": [
       {
-        "href": "https://github.com/flowershow/demo",
+        "href": "https://github.com/Sattapanni",
         "name": "GitHub Profile",
         "label": "github"
       },
@@ -24,6 +24,31 @@
         "href": "https://x.com/flowershowapp",
         "name": "Follow me on X",
         "label": "twitter"
+      }
+      {
+        "href": "https://youtube.com/yourchannel",
+        "name": "YouTube",
+        "label": "youTube"
+      }
+      {
+        "href": "https://space.bilibili.com/123456",
+        "name": "B站",
+        "label": "bilibili"
+      }
+      {
+        "href": "https://space.bilibili.com/123456",
+        "name": "B站",
+        "label": "bilibili"
+      }
+      {
+        "href": "facebook",
+        "name": "非死不可",
+        "label": "facebook"
+      }
+      {
+        "href": "mailto:7panni@proton.me",
+        "name": "Email",
+        "label": "email"
       }
     ]
   },
