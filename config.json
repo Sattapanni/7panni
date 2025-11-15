@@ -14,7 +14,18 @@
         "name": "随便起个名字"
       }
     ],
-       "social": []
+    "social": [
+      {
+        "href": "https://x.com/flowershowapp",
+        "name": "Follow me on X",
+        "label": "twitter"
+      }
+      {
+        "href": "https://youtube.com/yourchannel",
+        "name": "YouTube",
+        "label": "youTube"
+      }
+    ]
   },
   "showSidebar": true,
   "showEditLink": true,
