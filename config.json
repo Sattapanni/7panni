@@ -25,6 +25,11 @@
         "name": "Email",
         "label": "email"
       }
+     {
+        "href": "https://x.com/flowershowapp",
+        "name": "Follow me on X",
+        "label": "youtube"
+      }
     ]
   },
   "showSidebar": true,
