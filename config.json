@@ -20,6 +20,11 @@
         "name": "Follow me on X",
         "label": "youtube"
       }
+     {
+        "href": "https://space.bilibili.com/123456",
+        "name": "B站",
+        "label": "bilibili"
+      }
     ]
   },
   "showSidebar": true,
