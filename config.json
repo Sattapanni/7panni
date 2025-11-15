@@ -14,18 +14,6 @@
         "name": "随便起个名字"
       }
     ],
-    "social": [
-     {
-        "href": "https://x.com/flowershowapp",
-        "name": "Follow me on X",
-        "label": "youtube"
-      }
-     {
-        "href": "https://space.bilibili.com/123456",
-        "name": "B站",
-        "label": "rss"
-      }
-    ]
   },
   "showSidebar": true,
   "showEditLink": true,
