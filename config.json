@@ -2,6 +2,20 @@
   "title": "七叶电波",
   "description": "使人成为人",
   "image": "/assets/favicon.ico",
+  "nav": {
+    "title": "七叶电波",
+    "links": [
+      {
+        "href": "/about",
+        "name": "作者"
+      },
+      {
+        "href": "/#-markdown-syntax",
+        "name": "随便起个名字"
+      }
+    ],
+    "social": []
+  },
   "showSidebar": false,
   "showEditLink": true,
   "theme": {
