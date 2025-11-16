@@ -16,7 +16,7 @@
     ],
     "social": []
   },
-  "showSidebar": false,
+  "showSidebar": true,
   "showEditLink": true,
   "theme": {
     "defaultMode": "dark",
