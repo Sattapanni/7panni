@@ -2,6 +2,9 @@
   "title": "七叶电波",
   "description": "使人成为人",
   "image": "/assets/skipper.jpg",
+  {
+  "favicon": "🐶"
+}
   "nav": {
     "title": "七叶电波",
     "links": [
