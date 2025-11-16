@@ -19,7 +19,7 @@
   "showSidebar": true,
   "showEditLink": true,
   "theme": {
-    "defaultMode": "system",
+    "defaultMode": "dark",
     "showModeSwitch": true
   },
   "markdownRenderer": "auto"
