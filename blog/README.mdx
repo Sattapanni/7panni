@@ -2,7 +2,20 @@
 title: ✍️ 博客
 description: 这是一个博客文章列表
 ---
-<List dir="/blog" slots={{ eyebrow: "date", headline: "title", summary: "description", media: "image" }}/>
+<style>
+.list-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+</style>
+
+<div class="list-grid">
+  <List
+    dir="/blog"
+    slots={{ eyebrow: "date", headline: "title", summary: "description", media: "image" }}
+  />
+</div>
 
 >[!info]
 >列表是通过什么玩意生成的 [`List` component](https://flowershow.app/docs/list-component)
