@@ -23,4 +23,5 @@
     "showModeSwitch": true
   },
   "markdownRenderer": "auto"
+  "favicon": "/assets/favicon.ico"
 }
