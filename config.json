@@ -22,6 +22,6 @@
     "defaultMode": "dark",
     "showModeSwitch": true
   },
-  "markdownRenderer": "auto"
+  "markdownRenderer": "auto",
   "favicon": "/assets/favicon.ico"
 }
