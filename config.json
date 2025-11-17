@@ -3,7 +3,7 @@
   "description": "使人成为人",
   "image": "/assets/favicon.ico",
   "showSidebar": true,
-  "showEditLink": true,
+  "showEditLink": false,
   "theme": {
     "defaultMode": "dark",
     "showModeSwitch": true
