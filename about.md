@@ -1,13 +1,5 @@
 ---
 title: 联系方式
-date: 2025/02/03
-authors:
-  - 尚宸鸣
-description: 
-permalink: /post/contact/
-tags: 
-image: content/assets/
-publish: false
 ---
 E-mail : 7panni@proton.me
 
