@@ -1,5 +1,5 @@
 ---
-title: 第二轮 Junto 社团招募
+title: Junto 社团招募
 date: 2025/11/27
 permalink: /post/junto-announcement/
 authors:
